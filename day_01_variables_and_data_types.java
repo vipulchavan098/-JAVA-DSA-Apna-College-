@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class variables_and_data_types {
+public class day_01_variables_and_data_types {
     public static void main(String[] args) {
 //Question 1 : In a program, input 3 numbers : A, B and C. You have to output the average of
 // these 3 numbers.
