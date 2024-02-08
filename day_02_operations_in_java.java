@@ -1,4 +1,4 @@
-public class operations_in_java {
+public class day_02_operations_in_java {
     public static void main(String[]args) {
         // Question : What will be the output of the following programs :
         // Questin 1(a)
